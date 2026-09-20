@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "description": "Over-ear wireless headphones with noise cancellation and long battery life.",
+    "brand": "SoundMax",
+    "stock": 25,
+    "image": "wireless_headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Wearables",
+    "price": 89.99,
+    "description": "Smart watch with fitness tracking, heart-rate monitoring, and notifications.",
+    "brand": "TechTime",
+    "stock": 18,
+    "image": "smart_watch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "category": "Computer Accessories",
+    "price": 29.99,
+    "description": "High-precision gaming mouse with adjustable DPI and RGB lighting.",
+    "brand": "GamePro",
+    "stock": 40,
+    "image": "gaming_mouse.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Computer Accessories",
+    "price": 74.99,
+    "description": "Mechanical keyboard with RGB backlighting and responsive switches.",
+    "brand": "KeyMaster",
+    "stock": 22,
+    "image": "mechanical_keyboard.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 45.99,
+    "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+    "brand": "SoundMax",
+    "stock": 30,
+    "image": "bluetooth_speaker.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 39.99,
+    "description": "Water-resistant backpack with dedicated laptop compartment and USB charging port.",
+    "brand": "TravelPro",
+    "stock": 35,
+    "image": "laptop_backpack.jpg"
+  },
+  {
+    "id": 7,
+    "name": "USB-C Charger",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Fast USB-C charger suitable for smartphones, tablets, and laptops.",
+    "brand": "PowerTech",
+    "stock": 50,
+    "image": "usb_c_charger.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Smartphone",
+    "category": "Mobile Phones",
+    "price": 499.99,
+    "description": "Modern smartphone with high-resolution display, powerful processor, and dual cameras.",
+    "brand": "TechOne",
+    "stock": 15,
+    "image": "smartphone.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tablet",
+    "category": "Tablets",
+    "price": 299.99,
+    "description": "Lightweight tablet with a large display and long-lasting battery.",
+    "brand": "TechOne",
+    "stock": 20,
+    "image": "tablet.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Power Bank",
+    "category": "Accessories",
+    "price": 34.99,
+    "description": "10000mAh portable power bank with fast charging support.",
+    "brand": "PowerTech",
+    "stock": 45,
+    "image": "power_bank.jpg"
+  },
+  {
+    "id": 11,
+    "name": "USB Flash Drive",
+    "category": "Storage",
+    "price": 14.99,
+    "description": "64GB USB flash drive for fast and reliable data storage.",
+    "brand": "DataStore",
+    "stock": 60,
+    "image": "usb_flash_drive.jpg"
+  },
+  {
+    "id": 12,
+    "name": "External SSD",
+    "category": "Storage",
+    "price": 119.99,
+    "description": "Portable 1TB external SSD with high-speed data transfer.",
+    "brand": "DataStore",
+    "stock": 12,
+    "image": "external_ssd.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Webcam",
+    "category": "Computer Accessories",
+    "price": 49.99,
+    "description": "Full HD webcam suitable for online meetings, streaming, and video calls.",
+    "brand": "VisionCam",
+    "stock": 28,
+    "image": "webcam.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Wireless Earbuds",
+    "category": "Audio",
+    "price": 54.99,
+    "description": "Compact wireless earbuds with charging case and clear audio.",
+    "brand": "SoundMax",
+    "stock": 32,
+    "image": "wireless_earbuds.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Monitor",
+    "category": "Computer",
+    "price": 189.99,
+    "description": "24-inch Full HD monitor with slim bezels and high-quality display.",
+    "brand": "ViewTech",
+    "stock": 16,
+    "image": "monitor.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Laptop Stand",
+    "category": "Computer Accessories",
+    "price": 32.99,
+    "description": "Adjustable aluminum laptop stand designed for comfortable working.",
+    "brand": "DeskPro",
+    "stock": 38,
+    "image": "laptop_stand.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Wireless Router",
+    "category": "Networking",
+    "price": 79.99,
+    "description": "Dual-band wireless router with fast Wi-Fi speeds and wide coverage.",
+    "brand": "NetConnect",
+    "stock": 14,
+    "image": "wireless_router.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Smart LED Bulb",
+    "category": "Smart Home",
+    "price": 19.99,
+    "description": "Wi-Fi enabled smart LED bulb with adjustable brightness and colors.",
+    "brand": "HomeSmart",
+    "stock": 55,
+    "image": "smart_led_bulb.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Digital Camera",
+    "category": "Cameras",
+    "price": 649.99,
+    "description": "High-resolution digital camera suitable for photography and video recording.",
+    "brand": "PhotoPro",
+    "stock": 8,
+    "image": "digital_camera.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Portable Projector",
+    "category": "Electronics",
+    "price": 249.99,
+    "description": "Compact HD projector suitable for presentations, movies, and entertainment.",
+    "brand": "ViewTech",
+    "stock": 10,
+    "image": "portable_projector.jpg"
+  }
+]
